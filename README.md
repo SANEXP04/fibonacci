@@ -1,12 +1,10 @@
-# Bilangan-fibonance_UTS
+# Bilanga Fibonacci
 
 Nama: Ihsan Hadimulya<br>
 Kelas : TI 22.A.1<br>
 NIM: 312210047<br>
 Matakuliah : Pemrograman Mobile<br>
 Dosen pengajar : Donny Maulana, S.Kom., M.M.S.I.
-
-<h3>Assalamualaikum Wr.Wb disini saya akan menampilkan bilangan Fibonacci serta menampilkan codingan yang berfungsi untuk menambah bilangan fibonacci dan merubah warna seiring bertambahnya angka, serta memberikan tombol pop up restart ke angka semula,dan memberikan tombol limit(batasan) berikut adalah daftar isinya :
 
   
 ## DAFTAR ISI <br>
