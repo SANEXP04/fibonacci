@@ -23,8 +23,9 @@ Lalu ada Toast pada button Toast"berfungsi untuk merestart angka atau mengatur u
 Dan satu lagi ada button berapa angka limit yang ingin dimasukan"ya fungsinya sudah sangat jelas karena saya menulis keterangan pada button seperti itu ,itu berungsi untuk mengatur jumlah limit<br>
 
 <h4>Berikut codingannya</h4>
-          <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
+
+    <?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -103,8 +104,8 @@ Dan satu lagi ada button berapa angka limit yang ingin dimasukan"ya fungsinya su
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/button_limit"
         tools:ignore="RtlCompat" />
-
-</androidx.constraintlayout.widget.ConstraintLayout>
+    
+    </androidx.constraintlayout.widget.ConstraintLayout>
       
       
 ## string
