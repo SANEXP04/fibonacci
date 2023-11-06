@@ -1,10 +1,9 @@
-# Bilanga Fibonacci
+# Bilangan fibonacci
 
-Nama: Ihsan Hadimulya<br>
-Kelas : TI 22.A.1<br>
-NIM: 312210047<br>
-Matakuliah : Pemrograman Mobile<br>
-Dosen pengajar : Donny Maulana, S.Kom., M.M.S.I.
+### Nama           : Ihsan Hadimulya ###
+### NIM            : 312210047 ###
+### Kelas          : TI.22.A1 ### 
+### Dosen Pengampu : Donny Maulana S.Kom., M.M.S.I
 
   
 ## DAFTAR ISI <br>
